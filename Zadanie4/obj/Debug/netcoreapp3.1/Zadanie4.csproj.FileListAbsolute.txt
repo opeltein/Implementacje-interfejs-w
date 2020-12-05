@@ -1,0 +1,13 @@
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\bin\Debug\netcoreapp3.1\Zadanie4.exe
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\bin\Debug\netcoreapp3.1\Zadanie4.deps.json
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\bin\Debug\netcoreapp3.1\Zadanie4.runtimeconfig.json
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\bin\Debug\netcoreapp3.1\Zadanie4.runtimeconfig.dev.json
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\bin\Debug\netcoreapp3.1\Zadanie4.dll
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\bin\Debug\netcoreapp3.1\Zadanie4.pdb
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.csprojAssemblyReference.cache
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.AssemblyInfoInputs.cache
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.AssemblyInfo.cs
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.dll
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.pdb
+C:\Users\opelt\OneDrive\Pulpit\cs-lab04-Implementacje-interfejsow-implicit-explicit-kompozycja-main\Copier\Zadanie4\obj\Debug\netcoreapp3.1\Zadanie4.genruntimeconfig.cache
